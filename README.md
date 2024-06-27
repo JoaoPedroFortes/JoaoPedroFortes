@@ -1,5 +1,5 @@
 ## Hi there, I'm JP 👋
-![Profile Views](https://komarev.com/ghpvc/?username=JoaoPedroFortes&color=blue)
+
 <!--
 **JoaoPedroFortes/JoaoPedroFortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
