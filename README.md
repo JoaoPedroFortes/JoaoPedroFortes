@@ -1,16 +1,23 @@
-## Hi there, I'm JP 👋
+# João Pedro Fortes
 
-<!--
-**JoaoPedroFortes/JoaoPedroFortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software com 4 anos de experiência atuando em projetos complexos e ambientes multi-tenant.  
+Líder técnico e mentor de equipe, com forte atuação em desenvolvimento backend e frontend, utilizando Java, Angular e PostgreSQL.  
 
-Here are some ideas to get you started:
+Especialista em arquitetura de software, automação de processos com Docker e pipelines CI/CD via Azure DevOps.  
+Experiência consolidada com integração de sistemas, versionamento avançado com Git e desenvolvimento de soluções escaláveis usando Firebase e Cloud Functions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho foco em entregar software de alta qualidade que agrega valor real ao negócio, com atenção a performance, segurança e manutenibilidade.  
+Sempre buscando práticas ágeis, melhoria contínua e crescimento coletivo.
+
+---
+
+### Tecnologias & Ferramentas
+
+- Linguagens: Java, TypeScript, JavaScript  
+- Frontend: Angular, Next.js  
+- Backend: Node.js, Firebase Cloud Functions  
+- Banco de Dados: PostgreSQL, Firestore  
+- DevOps: Azure DevOps, Docker, Git  
+- Metodologias: Agile, Scrum, TDD  
+
+---
