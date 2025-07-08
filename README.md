@@ -18,6 +18,6 @@ Sempre buscando práticas ágeis, melhoria contínua e crescimento coletivo.
 - Backend: Node.js, Firebase Cloud Functions  
 - Banco de Dados: PostgreSQL, Firestore  
 - DevOps: Azure DevOps, Docker, Git  
-- Metodologias: Agile, Scrum, TDD  
+- Metodologias: Agile, Scrum
 
 ---
